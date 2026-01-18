@@ -70,7 +70,8 @@ The model was trained for **50 epochs** with the following strategies to ensure 
 | **Accuracy** | 98.2% | 96.5% |
 | **Loss** | 0.05 | 0.12 |
 
-*(Optional: Add your "Accuracy vs Epochs" graph here)*
+<img width="1156" height="547" alt="download (1)" src="https://github.com/user-attachments/assets/a22fbe6a-3edc-431c-9c01-eb23b9f78e42" />
+
 
 ---
 
