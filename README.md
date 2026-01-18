@@ -12,13 +12,6 @@ Built with a custom **Convolutional Neural Network (CNN)**, optimized with **Ten
 
 ---
 
-## 📸 Demo
-
-*(Place a screenshot or GIF of your UI here. Shows the upload process and the confidence bar)*
-![App Screenshot](https://via.placeholder.com/800x400?text=Upload+Your+App+Screenshot+Here)
-
----
-
 ## 🚀 Features
 
 * **Multi-Class Detection:** Identifies 4 classes: Pepper Bacterial Spot, Potato Early Blight, Tomato Late Blight, and Healthy Tomato.
@@ -86,8 +79,8 @@ The model was trained for **50 epochs** with the following strategies to ensure 
 
 1. **Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/plant-doctor-ai.git](https://github.com/YOUR_USERNAME/plant-doctor-ai.git)
-cd plant-doctor-ai
+git clone [https://github.com/YOUR_USERNAME/Plant-Disease-Detection-CNN.git](https://github.com/YOUR_USERNAME/Plant-Disease-Detection-CNN.git)
+cd Plant-Disease-Detection-CNN
 
 ```
 
@@ -109,20 +102,6 @@ python app.py
 4. **Access the UI**
 Open your browser and navigate to: `http://127.0.0.1:5000`
 
----
-
-## ☁️ Deployment (Render)
-
-This project is configured for seamless deployment on **Render.com**.
-
-1. Push your code to a GitHub repository.
-2. Create a new **Web Service** on Render.
-3. Connect your repo and use the following settings:
-* **Build Command:** `pip install -r requirements.txt`
-* **Start Command:** `gunicorn app:app`
-
-
-4. Your app will be live in minutes!
 
 ---
 
