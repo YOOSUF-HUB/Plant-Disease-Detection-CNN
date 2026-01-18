@@ -142,4 +142,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### 👤 Contact
 
-**Your Name** [LinkedIn Profile](https://linkedin.com/in/yourprofile) | [GitHub Profile](https://github.com/yourusername)
+**Yoosuf** [LinkedIn Profile](https://www.linkedin.com/in/yoosuf-ahamed-21982026a/) | [GitHub Profile](https://github.com/YOOSUF-HUB)
