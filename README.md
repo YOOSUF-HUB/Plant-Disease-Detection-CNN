@@ -113,12 +113,6 @@ Open your browser and navigate to: `http://127.0.0.1:5000`
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ### 👤 Contact
 
 **Yoosuf** [LinkedIn Profile](https://www.linkedin.com/in/yoosuf-ahamed-21982026a/) | [GitHub Profile](https://github.com/YOOSUF-HUB)
